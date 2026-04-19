@@ -17,8 +17,3 @@ netviper --ports 1-1000           # Escaneo de puertos
 netviper --stealth                 # Modo sigiloso activado
 netviper --sniff                   # Intercepta tráfico
 netviper --ping-sweep              # Descubre hosts vivos
-
-╔═══════════════════════════╗
-║    🐍⚡   N E T V I P E R ║
-║  "Pica y domina la red"   ║
-╚═══════════════════════════╝
