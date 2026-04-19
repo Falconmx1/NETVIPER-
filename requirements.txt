@@ -1,0 +1,5 @@
+# NETVIPER dependencies
+# No se necesitan dependencias externas para funciones básicas
+# Para sniffing en el futuro:
+# scapy
+# pcap
